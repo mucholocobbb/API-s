@@ -1,0 +1,44 @@
+ [
+  {
+      "id": "1",
+      "date": "01.07.2021",
+      "cat": "Food",
+      "value": "415"
+  },
+  {
+      "id": "2",
+      "date": "05.08.2021",
+      "cat": "Transport",
+      "value": "50"
+  },
+  {
+      "id": "3",
+      "date": "24.09.2021",
+      "cat": "Health",
+      "value": "189"
+  },
+  {
+      "id": "4",
+      "date": "25.09.2021",
+      "cat": "Food",
+      "value": "234"
+  },
+  {
+      "id": "5",
+      "date": "25.09.2021",
+      "cat": "Transport",
+      "value": "48"
+  },
+  {
+      "id": "6",
+      "date": "26.09.2021",
+      "cat": "Health",
+      "value": "1600"
+  },
+  {
+      "id": "7",
+      "date": "27.09.2021",
+      "cat": "Transport",
+      "value": "140"
+  }
+]
