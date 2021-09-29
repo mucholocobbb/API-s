@@ -2,7 +2,6 @@
     { "text": "Food", "id": "1" },
     { "text": "Clothing", "id": "2" },
     { "text": "House", "id": "3" },
-    { "text": "Food", "id": "4" },
-    { "text": "Health", "id": "5" },
-    { "text": "Transport", "id": "6" }
+    { "text": "Health", "id": "4" },
+    { "text": "Transport", "id": "5" }
 ]
