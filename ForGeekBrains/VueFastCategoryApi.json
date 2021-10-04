@@ -1,5 +1,5 @@
 [
-  { "name": "Food", "id": "1" },
-  { "name": "Entertainment", "id": "2" },
-  { "name": "Transport", "id": "3" }
+  { "name": "Food", "id": "1", "value": "200"},
+  { "name": "Entertainment", "id": "2", "value": "1600"},
+  { "name": "Transport", "id": "3", "value": "50"}
 ]
