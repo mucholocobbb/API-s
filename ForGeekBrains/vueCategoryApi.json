@@ -1,8 +1,0 @@
-[
-    { "text": "Food", "id": "1" },
-    { "text": "Clothing", "id": "2" },
-    { "text": "House", "id": "3" },
-    { "text": "Health", "id": "4" },
-    { "text": "Transport", "id": "5" },
-    { "text": "Entertainment", "id": "6" }
-]
